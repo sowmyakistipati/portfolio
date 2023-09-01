@@ -1,0 +1,14 @@
+.course{
+    border: 1px solid black;
+    width: 600px;
+    height: 500px;
+    padding: 50px;
+    background-color: orange;
+}
+.sow{
+    border: 1px solid black;
+    width: 350px;
+    height: 220px;
+    padding: 30px;
+    background-color: black;
+}

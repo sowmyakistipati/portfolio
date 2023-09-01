@@ -1,0 +1,15 @@
+.foot{
+    background-color: teal;
+    padding: 10px;
+    color: white;
+}
+h5{
+    color: orange;
+}
+img{
+    border-radius: 100px;
+
+}
+img:hover{
+    background-color: navy;
+}

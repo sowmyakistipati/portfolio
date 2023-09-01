@@ -1,0 +1,9 @@
+.course{
+    border: 1px solid pink;
+    width: 700px;
+    height: 500px;
+    padding: 50px;
+}
+.teal{
+    background: navy;
+}

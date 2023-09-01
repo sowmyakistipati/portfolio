@@ -1,0 +1,36 @@
+.container-fluid{
+    background-color: teal;
+   
+}
+
+img{
+    border-radius: 500px;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -20px;
+    left: -200px;
+    
+}
+h3{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: white;
+}
+a{
+    position: relative;
+    left: 200px;
+    top: 20px;
+    color: white;
+}
+.btn{
+    position: relative;
+    left: 320px;
+    top: -5px;
+    
+}
+.icon{
+    margin-left: 320px;
+    font-size: 25px;
+}

@@ -1,0 +1,49 @@
+.mar{
+    margin-left: 140px;
+}
+
+button{
+    width: 400px;
+    background-color: white;
+    border: 1px solid lightgray;
+    box-shadow: 3px 3px 3px lightgray;
+
+}
+.wrapper .carousel{
+    display:flex;
+    overflow: hidden;
+  
+}
+.wrapper{
+    max-width: 1200px;
+    position: relative;
+}
+.carousel .button{
+    object-fit: cover;
+    width: calc(100% / 3);
+    cursor: pointer;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+.wrapper i:first-child{
+    left: -24px;
+}
+.wrapper i:last-child{
+    right: -70px;
+}
+.wrapper i{
+    background-color: grey;
+    height: 46px;
+    width: 46px;
+    border-radius: 50%;
+text-align: center;
+line-height: 45px;
+position: absolute;
+
+transform: translateX(-50%);
+top: 50%;
+}
